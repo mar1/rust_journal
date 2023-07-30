@@ -4,7 +4,7 @@
 
 As I was talking with my brother recently, discipline is key in everything we try to accomplish. That’s why I’m starting here. **We’re Sunday, the 30th of July 2023 and I yet don’t know if it’s the beginning of something.**
 
-For the context, my name is Marin and I’m a full-stack web3 developer. However, I mostly use JS and Solidity daily. I deploy most of my code on Moonbeam/Moonbase as I like the spirit of this chain. You have access to great tools and the EVM compatibility is top-notch. Also, you have the entire Substrate ecosystem accessible through XCM.
+For the context/background, I’m a full-stack web3 developer. However, I mostly use JS and Solidity daily. I deploy most of my code on Moonbeam/Moonbase as I like the spirit of this chain. You have access to great tools and the EVM compatibility is top-notch. Also, you have the entire Substrate ecosystem accessible through XCM.
 
 **And Rust is behind this. That’s also why I’m stepping up my game today.**
 
@@ -24,13 +24,13 @@ So here are my Rust ressources:
 
 **Extra ressources:**
 
--Official [Polkadot wiki](https://wiki.polkadot.network/docs/build-guide)
+- [Official Polkadot wiki](https://wiki.polkadot.network/docs/build-guide)
 
--[General curated Rust learning list](https://github.com/ctjhoa/rust-learning)
+- [General curated Rust learning list](https://github.com/ctjhoa/rust-learning)
 
--[Blockchains rust related links](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
+- [Blockchains rust related links](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
 
--[Official XCM docs](https://paritytech.github.io/xcm-docs/)
+- [Official XCM docs](https://paritytech.github.io/xcm-docs/)
 
 # Where to start
 
