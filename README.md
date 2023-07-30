@@ -3,7 +3,7 @@
 ## Index 🫡
 
 **Current Day:**
-> 1
+> 2
 
  1. [Day 1: setup the beast](/posts/1.md)
  2. Day 2
