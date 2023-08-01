@@ -49,3 +49,5 @@ So here are my Rust ressources that I gonna follow more or less:
 - [Blockchains rust related links](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
 
 - [Official XCM docs](https://paritytech.github.io/xcm-docs/)
+
+- [ethers-rs docs](https://www.gakonst.com/ethers-rs/)
